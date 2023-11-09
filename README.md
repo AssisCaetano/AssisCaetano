@@ -1,6 +1,11 @@
-# Oi, eu sou Assis
+# Oi, Me chamo Assis
+
 ## Sobre mim
-- <!--Descrever um texto sobre mim-->
+
+- Olá, me chamo Assis, um estusiasta da tecnolgia apaixonado por criar e inovar. Atualmente, estou cursando **Analise e Desenvolvimento de Sistemas** na **Universidade Estácio de Sá**, e explorando o vasto mundo do desenvolvimento de software.
+
+- No meu caminho de aprendizado, tenho me envolvido em projetos desafiadores,explorando **O Git, GitHub, Linux, Java Web, Spring, MySQL, AWS, PostgreSQL**. Estou sempre buscando expandir meus horizontes e aprender novas tecnologias.
+
 
 ##  Linguagens
 
@@ -14,21 +19,24 @@
 </a>
 
 ## Cursos
- *
+
+### Microlins Educação & Profissão
+ * Hardware, Redes e Notebooks 114/horas
+
+ ### Iwtraining Certificado Profissional
+ * Java Specialist - (POO - DESENVOLVIMENTO WEB - JSF - JPA -HIBERNATE - SPRING FRAMEWORK) 160/horas
+
+ ### Ka solution
+
+ * Computação em Nuvem | AWS Discovery Day 04/horas
 
 ## Projetos
-<!--coloar link dos projetos caso tenha-->
-
-<!--
+ https://github.com/AssisCaetano/Api-Contas
 <div> 
-
-  <img align="right" alt="Api-Cadastro" height="100" src="img/diagrama.png" style="padding: 10px;">
+  <img align="right" alt="Api-Cadastro" height="100" src="img/Api-Contas.png" style="padding: 10px;">
 </div>
   <link rel="stylesheet" href=>
--->
 
-
-<!--[![Meu Projeto](./img/diagrama.png)](https://github.com/seunome/seuprojeto)-->
 
 ## Experiência profissional
 
