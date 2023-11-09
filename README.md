@@ -31,12 +31,14 @@
  * Computação em Nuvem | AWS Discovery Day 04/horas
 
 ## Projetos
- https://github.com/AssisCaetano/Api-Contas
+
+  Embreve estarei colocando meus projetos aqui!
+ <!--
 <div> 
-  <img align="right" alt="Api-Cadastro" height="100" src="img/Api-Contas.png" style="padding: 10px;">
+  <img align="right" alt="Api-Cadastro" height="100" src="" style="padding: 10px;">
 </div>
   <link rel="stylesheet" href=>
-
+-->
 
 ## Experiência profissional
 
