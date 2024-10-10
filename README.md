@@ -2,7 +2,7 @@
 
 ## Sobre mim
 
-- Olá, me chamo Assis, um estusiasta da tecnolgia apaixonado por criar e inovar. Atualmente, estou cursando **Analise e Desenvolvimento de Sistemas** na **Universidade Estácio de Sá**, e explorando o vasto mundo do desenvolvimento de software.
+- Olá, me chamo Assis, um entusiasta da tecnolgia apaixonado por criar e inovar. Atualmente, estou cursando **Analise e Desenvolvimento de Sistemas** na **Universidade Estácio de Sá**, e explorando o vasto mundo do desenvolvimento de software.
 
 - No meu caminho de aprendizado, tenho me envolvido em projetos desafiadores,explorando **O Git, GitHub, Linux, Java Web, Spring, MySQL, AWS, PostgreSQL**. Estou sempre buscando expandir meus horizontes e aprender novas tecnologias.
 
